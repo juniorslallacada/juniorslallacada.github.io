@@ -1,0 +1,21 @@
+#vonis{
+    height: 500px;
+    widht: 800px;
+    filter: drop-shadow(1px 1px black)
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: lightgreen;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 10px 80px;
+}
+
+.navbar a{
+    text-decoration: none;
+}
